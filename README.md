@@ -230,7 +230,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/EmePin/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jahda%C3%AD-p-93aa091b5/
-
+[paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+[paypal-url]: https://paypal.com
 <!-- screenshot -->
 
 [product-screenshot]: images/screenshot.png
