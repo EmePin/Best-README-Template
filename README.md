@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Best-README-Template 😎</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -33,7 +33,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-  <summary>Table of Contents</summary>
+  <summary><strong> Table of Contents 👀</strong></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -59,7 +59,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project 📢 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -77,7 +77,7 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### Built With 🛠️
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -88,12 +88,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Getting Started 🏁
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites ⏮️
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -102,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
     npm install npm@latest -g
     ```
 
-### Installation
+### Installation 💻
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -124,7 +124,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Usage 📷
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -132,7 +132,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Color Reference
+## Color Reference 🎨
 
 | Color         | Hex                                                              |
 | ------------- | ---------------------------------------------------------------- |
@@ -143,7 +143,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 
-## Roadmap
+## Roadmap 📌
 
 -   [x] Add Changelog
 -   [x] Add back to top links
@@ -159,7 +159,7 @@ See the [open issues](https://github.com/EmePin/Best-README-Template/issues) for
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## Contributing 👯‍♂️
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -176,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 
-## License
+## License 📃
 
 Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/CCTmapsv1/blob/main/LICENSE.txt) for more information.
 
@@ -184,7 +184,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/CCTma
 
 <!-- CONTACT -->
 
-## Contact
+## Contact ☎️
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahda%c3%ad-p-93aa091b5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400)
 
 -   **Github** : [EmePin](https://github.com/EmePin/)
@@ -194,18 +194,21 @@ Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/CCTma
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+## Acknowledgments 	😃 
  
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 -   [Choose an Open Source License](https://choosealicense.com)
+-   [Img Shields](https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence-)
+-   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+-   [Flavicon](https://www.flaticon.es/)
+
+-   [Google Fonts](https://fonts.google.com/)
+
 -   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 -   [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 -   [Malven's Grid Cheatsheet](https://grid.malven.co/)
--   [Img Shields](https://shields.io)
 -   [GitHub Pages](https://pages.github.com)
--   [Font Awesome](https://fontawesome.com)
--   [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
