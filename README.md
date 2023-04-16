@@ -78,7 +78,7 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With 
-
+<br>
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 -   [![Next][next.js]][next-url]
@@ -384,9 +384,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- database -->
 
 [mysql-shield]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com/products/workbench/
 [mariadb-shield]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
 [vsc-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
+[vsc-url]: https://code.visualstudio.com/
 <!-- shell -->
 
 [google-cloud-shield]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
